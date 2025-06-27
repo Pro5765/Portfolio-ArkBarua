@@ -20,7 +20,7 @@ Welcome to my personal portfolio built with **React.js** and styled using modern
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://portfolio-ark-barua.vercel.app/preview1.png)  
+![Screenshot 1](./public/Images/Screenshot 2025-06-27 212953.png)  
 > _(Replace this with your actual image or local path)_
 
 ---
