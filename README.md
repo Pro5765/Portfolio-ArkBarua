@@ -20,7 +20,7 @@ Welcome to my personal portfolio built with **React.js** and styled using modern
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://portfolio-ark-barua.vercel.app/preview1.png)
+![Screenshot 1](https://portfolio-ark-barua.vercel.app/preview1.png)  
 > _(Replace this with your actual image or local path)_
 
 ---
@@ -66,5 +66,11 @@ This project is deployed on Vercel with continuous deployment from GitHub.
 
 👉 Live URL: https://portfolio-ark-barua.vercel.app
 
+🙋‍♂️ Author
+Ark Barua
+💼 LinkedIn: www.linkedin.com/in/arkbarua
+💻 GitHub: https://github.com/Pro5765
+📧 Email: arkbarua16@gmail.com
+
 📜 License
-This project is open source and free to use. Licensed under the MIT License.
+This project is licensed under the MIT License.
